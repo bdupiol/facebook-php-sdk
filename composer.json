@@ -1,9 +1,9 @@
 {
-    "name": "nickdnk/graph-sdk",
+    "name": "bdupiol/facebook-php-sdk",
     "description": "Facebook SDK for PHP compatible with PHP8",
     "keywords": ["facebook", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/nickdnk/php-graph-sdk",
+    "homepage": "https://github.com/bdupiol/facebook-php-sdk",
     "license": "proprietary",
     "authors": [
         {
